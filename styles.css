@@ -1,0 +1,30 @@
+body, html{
+    height: 100%;
+}
+table {
+    white-space: nowrap;
+}
+    
+.back{
+    /* background-image: url('https://source.unsplash.com/random/900x700/?space'); */
+    background-image: url('Images/space.gif');
+    background-color: #040604;
+    color: #20C20E;
+    height: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    background-size: cover;
+    
+  }
+
+  .underlined a {
+    text-decoration: none;
+  }
+
+  .underlined a:hover {
+    text-decoration: underline;
+  }
+  div.colored hr{
+    background-color: aquamarine;
+    height: 1px;
+  }
